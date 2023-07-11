@@ -1,0 +1,5 @@
+C:\Users\Nilay\Desktop\ETicaret2022Guz-ETicaretAPIwithWeb\Eticaret2022Guz\ETicaretEntitiyLayer\obj\Debug\net5.0\ETicaretEntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\Nilay\Desktop\ETicaret2022Guz-ETicaretAPIwithWeb\Eticaret2022Guz\ETicaretEntitiyLayer\obj\Debug\net5.0\ETicaretEntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilay\Desktop\ETicaret2022Guz-ETicaretAPIwithWeb\Eticaret2022Guz\ETicaretEntitiyLayer\obj\Debug\net5.0\ETicaretEntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\Nilay\Desktop\ETicaret2022Guz-ETicaretAPIwithWeb\Eticaret2022Guz\ETicaretEntitiyLayer\obj\Debug\net5.0\ETicaretEntitiyLayer.AssemblyInfo.cs
+C:\Users\Nilay\Desktop\ETicaret2022Guz-ETicaretAPIwithWeb\Eticaret2022Guz\ETicaretEntitiyLayer\obj\Debug\net5.0\ETicaretEntitiyLayer.csproj.CoreCompileInputs.cache

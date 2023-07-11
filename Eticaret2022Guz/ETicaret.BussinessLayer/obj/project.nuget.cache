@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P44xh5S1+z5j7ZXnjnp+6tEm9xxkTu+y1FFAGKji2rFJzvUMJ1pFTDkWAxm2BWHC6gvUqVm1IQn7FYzdUtETUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nilay\\Desktop\\NilayBeydilliHR210039\\Eticaret2022Guz\\ETicaret.BussinessLayer\\ETicaret.BussinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nilay\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nilay\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nilay\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
